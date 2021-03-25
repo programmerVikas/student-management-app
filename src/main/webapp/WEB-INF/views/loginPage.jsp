@@ -62,7 +62,7 @@
                         <form action="loginPage" class="card-body" method="post">
                             <div class="form-group">
                                 <label for="exampleInputEmail1"><i class="fa fa-envelope" aria-hidden="true"></i> Email address</label>
-                                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" name="mail">
+                                <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" name="mail">
                                 
                             </div>
                             <div class="form-group">
